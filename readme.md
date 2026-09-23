@@ -2,7 +2,7 @@
 
 Linus Torvalds je finsko-americký programátor narozený v roce 1969, kterého zná snad každý v IT světě. V roce 1991, ještě když studoval na univerzitě v Helsinkách, vytvořil jako svůj vlastní koníček operační systém Linux (přesněji jeho jádro). Štvalo ho, že tehdejší systémy byly drahé nebo nedostupné, tak si napsal vlastní a dal ho zdarma všem k dispozici. Dneska na Linuxu běží většina serverů na internetu, superpočítače i Android v telefonech.
 
-![Linus Torvalds](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg/400px-LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg)
+![Linus Torvalds](https://commons.wikimedia.org/wiki/File:LinuxCon_Europe_Linus_Torvalds_03_(cropped).jpg)
 
 Co o něm vědět:
 - Vytvořil i Git (systém na správu verzí kódu), bez kterého by dneska nefungoval ani samotný GitHub.
