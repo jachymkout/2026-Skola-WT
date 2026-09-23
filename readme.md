@@ -1,13 +1,13 @@
-# Shuji Nakamura - vynálezce modré LEDky
+# Linus Torvalds - tvůrce Linuxu
 
-Shuji Nakamura je japonský vědec a fyzik narozený v roce 1954, který se proslavil tím, že v devadesátých letech dokázal vyrobit jasně svítící modrou LED diodu. Do té doby existovala jen červená a zelená a lidi si mysleli, že modrá sestrojit nejde. Díky jeho objevu se pak mohly namíchat všechny tři barvy dohromady a vzniklo bílé LED světlo, které dneska máme v žárovkách, monitorech i telefonech.
+Linus Torvalds je finsko-americký programátor narozený v roce 1969, kterého zná snad každý v IT světě. V roce 1991, ještě když studoval na univerzitě v Helsinkách, vytvořil jako svůj vlastní koníček operační systém Linux (přesněji jeho jádro). Štvalo ho, že tehdejší systémy byly drahé nebo nedostupné, tak si napsal vlastní a dal ho zdarma všem k dispozici. Dneska na Linuxu běží většina serverů na internetu, superpočítače i Android v telefonech.
 
-![Shuji Nakamura](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Shuji_Nakamura_2014.jpg/400px-Shuji_Nakamura_2014.jpg)
+![Linus Torvalds](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg/400px-LinuxCon_Europe_Linus_Torvalds_03_%28cropped%29.jpg)
 
 Co o něm vědět:
-- V roce 2014 za to dostal Nobelovu cenu za fyziku.
-- Pracoval s materiálem nitrid gallitý (GaN), se kterým to nakonec dokázal.
-- Pomohl vyvinout i modrý laser, který se používal u Blu-ray disků.
-- Se svou firmou Nichia se pak musel soudit, protože mu za tak obrovský objev původně dali jen směšný bonus.
+- Vytvořil i Git (systém na správu verzí kódu), bez kterého by dneska nefungoval ani samotný GitHub.
+- Je známý tím, že si nebral servítky a na internetových fórech uměl být na ostatní vývojáře hodně drsný, když odevzdali špatný kód.
+- Název Linux vznikl spojením jeho jména Linus a systému UNIX.
+- I po letech se pořád stará o hlavní vývoj Linuxu a schvaluje klíčové změny.
 
-Více detailů se dá najít třeba na [Wikipedii](https://cs.wikipedia.org/wiki/%C5%A0%C3%BAd%C5%BEi_Nakamura).
+Více detailů si můžeš přečíst přímo na [Wikipedii](https://cs.wikipedia.org/wiki/Linus_Torvalds).
